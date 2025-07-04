@@ -7,3 +7,9 @@ Throughout my Data Analysis training, I gained hands-on experience with tools su
 ## Project Topic: E-Commerce Product Insights | Strategic Analysis of Amazon Listings
 
 ### Project Overview
+
+This data analysis project focuses on uncovering product and customer engagement insights from an Amazon-based e-commerce dataset. The goal was to explore key indicators that influence product performance, customer preferences, and strategic pricing.
+
+By examining multiple data points—including product categories, pricing, discounts, customer reviews, and ratings—I was able to draw meaningful insights that support data-driven storytelling and decision-making. The analysis revealed trends in customer behavior, product visibility, and potential revenue, ultimately guiding recommendations for better marketing focus and product optimization.
+
+This project also highlights the practical application of Microsoft Excel tools such as pivot tables, calculated columns, and dynamic dashboards in building a clear, interactive summary of insights.
