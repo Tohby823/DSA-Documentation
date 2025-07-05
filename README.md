@@ -39,7 +39,7 @@ At the initial stage of data cleaning and preparation, the following key steps w
 - Confirmed uniqueness of product IDs to maintain data integrity
 - Split or prepared comma-separated review-related fields for further analysis if needed
 
-### Explortory Data Analysis
+### Exploratory Data Analysis
 
 - What is the average discount percentage by product category? 
 - How many products are listed under each category? 
@@ -56,4 +56,7 @@ At the initial stage of data cleaning and preparation, the following key steps w
 - Which categories have products with the highest discounts? 
 - Identify the top 5 products in terms of rating and number of reviews combined.
     
+### Data Analysis
+
+
 
