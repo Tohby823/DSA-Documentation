@@ -1,8 +1,6 @@
 # DSA Project Documentation
 
-This marks the beginning of my portfolio development during my Data Analysis course with The Incubator.
-
-Throughout my Data Analysis training, I gained hands-on experience with tools such as Microsoft Excel, SQL (Structured Query Language), and Power BI. I also developed skills in data analysis, portfolio building, and version control using GitHub to showcase my work effectively.
+This project is part of a capstone case study from the **DSA Data Analysis Program**, aimed at analyzing product and customer review data scraped from Amazon to generate insights that can support product improvement, marketing strategies, and customer engagement.
 
 ## Project Topic: E-Commerce Product Insights | Strategic Analysis of Amazon Listings
 
@@ -40,6 +38,8 @@ At the initial stage of data cleaning and preparation, the following key steps w
 - Split or prepared comma-separated review-related fields for further analysis if needed
 
 ### Exploratory Data Analysis
+
+Key questions explored during the analysis:
 
 - What is the average discount percentage by product category? 
 - How many products are listed under each category? 
