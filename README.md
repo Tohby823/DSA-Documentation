@@ -22,5 +22,5 @@ The primary dataset used in this analysis is the Amazon Case Study Excel Workshe
 
 - Microsoft Excel [Download here](https://www.microsoft.com)
     - Used for data cleaning, transformation, and analysis through pivot tables, calculated columns, and formulas. Also employed to build an interactive dashboard for visualizing insights.
-- GitHub
+- GitHub [Download here](github.com)
     - Utilized for version control and to host the project as part of a professional portfolio.
